@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/pranjal-018/DSA/tree/master/0401-binary-watch) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pranjal-018/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranjal-018/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/pranjal-018/DSA/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
