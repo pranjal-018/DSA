@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal-018/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pranjal-018/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pranjal-018/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pranjal-018/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranjal-018/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pranjal-018/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
