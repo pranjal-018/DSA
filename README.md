@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/pranjal-018/DSA/tree/master/0008-string-to-integer-atoi) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranjal-018/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pranjal-018/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pranjal-018/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
