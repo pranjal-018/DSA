@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranjal-018/DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/pranjal-018/DSA/tree/master/0036-valid-sudoku) |
 | [0486-predict-the-winner](https://github.com/pranjal-018/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranjal-018/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pranjal-018/DSA/tree/master/0877-stone-game) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranjal-018/DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/pranjal-018/DSA/tree/master/0036-valid-sudoku) |
 | [1331-rank-transform-of-an-array](https://github.com/pranjal-018/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pranjal-018/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranjal-018/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/pranjal-018/DSA/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/pranjal-018/DSA/tree/master/1260-shift-2d-grid) |
 ## Rolling Hash
 |  |
