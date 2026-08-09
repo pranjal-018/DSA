@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/pranjal-018/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjal-018/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranjal-018/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pranjal-018/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pranjal-018/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pranjal-018/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/pranjal-018/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/pranjal-018/DSA/tree/master/1140-stone-game-ii) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pranjal-018/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pranjal-018/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/pranjal-018/DSA/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/pranjal-018/DSA/tree/master/1260-shift-2d-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pranjal-018/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Rolling Hash
 |  |
 | ------- |
